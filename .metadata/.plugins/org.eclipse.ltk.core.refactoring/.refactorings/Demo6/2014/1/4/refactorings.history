@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Demo6/res/layout/input_controls_context.xml&apos; to &apos;input_controls_content.xml&apos;" description="Rename resource &apos;input_controls_context.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/layout/input_controls_context.xml" name="input_controls_content.xml" stamp="1390504280178" updateReferences="true"/>
-</session>
